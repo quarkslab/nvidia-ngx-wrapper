@@ -1,0 +1,8 @@
+#ifndef NGX_LINUX_CRT_HOOTS
+#define NGX_LINUX_CRT_HOOTS
+
+#define CRT_ATEXIT_OFF 0x34B60
+#define CRT_ALLOCA_PROBE 0x035070
+
+#endif
+

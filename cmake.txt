@@ -1,0 +1,1 @@
+cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DLIEF_DIR=$HOME/dev/LIEF/lief_release/share/LIEF/cmake -DQBDL_DIR=$HOME/dev/QBDL/qbdl_release/share/QBDL/cmake .. -DCMAKE_CXX_COMPILER=clang++-12 -DCUDAToolkit_ROOT=/usr/local/cuda-10.0
