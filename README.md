@@ -16,7 +16,7 @@ Here are the prerequisites:
 * QBDL commit 129dd67ac7b488ec1656dc1faadc8f68bb37f601
 * and, finally, [cmake](https://cmake.org/)
 
-Once you have downloaded the NGX SDK, use the ``extract_ngx_sdk.sh`` scriopt to
+Once you have downloaded the NGX SDK, you can use the ``extract_ngx_sdk.sh`` script to
 extract the necessary files from the NGX SDK, and copy them in the expected
 places in the project's source tree. Indeed, we don't have the rights to
 distribute these files ourselves.
