@@ -23,7 +23,7 @@ distribute these files ourselves.
 
 ### Build using Docker
 
-You also need to place these files at the root of the cloned repository, after downloading them for NVIDIA's website:
+You also need to place these files at the root of the cloned repository, after downloading them from NVIDIA's website:
 
 * ``cudnn-10.0-linux-x64-*.tgz`` (https://developer.nvidia.com/cudnn-download-survey, need an NVIDIA developper account)
 * ``cuda_10.0.*.run`` (https://developer.nvidia.com/compute/cuda/10.0/Prod/local_installers/cuda_10.0.130_410.48_linux)
